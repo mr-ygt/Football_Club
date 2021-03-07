@@ -1,0 +1,55 @@
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.csprojAssemblyReference.cache
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.Login.resources
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.Properties.Resources.resources
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.GenerateResource.cache
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.CoreCompileInputs.cache
+C:\Users\donmr\source\repos\Football_Club\Football_Club\bin\Debug\Football_Club.exe.config
+C:\Users\donmr\source\repos\Football_Club\Football_Club\bin\Debug\Football_Club.exe
+C:\Users\donmr\source\repos\Football_Club\Football_Club\bin\Debug\Football_Club.pdb
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.EnterScreen.resources
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.exe
+C:\Users\donmr\source\repos\Football_Club\Football_Club\obj\Debug\Football_Club.pdb
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.exe
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.pdb
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csprojAssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.EnterScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.Login.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.exe
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.pdb
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.FPlayerScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.AchievementsScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.TechnicalCommitteeScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.SponsorScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.DirectorsScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.StoreScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.SportFacilityScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.HotelScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.VehicleScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.StadiumScreen.resources
+C:\Users\furka\OneDrive\Masaüstü\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.EditPlayer.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.exe.config
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.exe
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\bin\Debug\Football_Club.pdb
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csprojAssemblyReference.cache
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.AchievementsScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.DirectorsScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.EditPlayer.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.EnterScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.Login.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.FPlayerScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.HotelScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.Properties.Resources.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.SponsorScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.SportFacilityScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.StadiumScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.StoreScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.TechnicalCommitteeScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.VehicleScreen.resources
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.GenerateResource.cache
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.csproj.CoreCompileInputs.cache
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.exe
+C:\Users\donmr\Desktop\shits\5. semester\CSE3055 Database\project-last\150116064_150116056\Football_Club\Football_Club\Football_Club\obj\Debug\Football_Club.pdb
